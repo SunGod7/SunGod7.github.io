@@ -1,8 +1,9 @@
 # SunGod7.github.io
+# Portfolio
 ![](images/IMG-0767.jpg)
 Terrance Wells Jr. (Web Developer)
 
-#ABOUT ME:
+# ABOUT ME:
 
 As a personal trainer and a writer, both tell stories. One through physical characteristics, the other develops characters mentally. As a software developer I get to tell stories with each line of code I write. I created a value system for myself that I live by and it's called, "LEE" (Leadership, Ethics, Empathy). I lead by example, and never compromise my ethics, and I am empathetic to the people I work with and for. I am a full stack developer who specializes in HTML/CSS and JavaScript. I am experienced in working individually and with a team to produce dynamic websites.
 
